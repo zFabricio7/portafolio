@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Portafolio - Fabricio Reyes</title>
+    <link>http://localhost:1313/portafolio/posts/</link>
+    <description>Recent content in Posts on Portafolio - Fabricio Reyes</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portafolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions</title>
+      <link>http://localhost:1313/portafolio/posts/reporte/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portafolio/posts/reporte/</guid>
+      <description>&lt;h1 id=&#34;reporte-markdown-git-github-hugo-y-github-actions&#34;&gt;Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alumno:&lt;/strong&gt; Fabricio Reyes&lt;br&gt;&#xA;&lt;strong&gt;Materia:&lt;/strong&gt; Paradigmas de la programación&lt;br&gt;&#xA;&lt;strong&gt;Profesor:&lt;/strong&gt; Jose Carlos Gallegos Mariscal&lt;br&gt;&#xA;&lt;strong&gt;Fecha:&lt;/strong&gt; 20/02/2026&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;&#xA;&lt;p&gt;En el presente reporte se documenta el aprendizaje adquirido durante tres sesiones enfocadas en herramientas fundamentales para el desarrollo moderno de software y publicación web. Se estudió el uso de Markdown para documentación, Git y GitHub para control de versiones, y finalmente Hugo junto con GitHub Actions para la generación y publicación automática de sitios web estáticos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

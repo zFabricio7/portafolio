@@ -1,0 +1,4 @@
+baseURL = 'https://zfabricio7.github.io/portafolio/'
+languageCode = 'es-mx'
+title = 'Portafolio - Fabricio Reyes'
+theme = 'ananke'

@@ -243,4 +243,8 @@ El dominio de estas herramientas es esencial en entornos profesionales basados e
 
 Para convertir este archivo Markdown a PDF se utilizó la extensión "Markdown PDF" en Visual Studio Code.
 
+<<<<<<< HEAD
 Prueba 47. Funciona
+=======
+Prueba 47. Funciona
+>>>>>>> 8e84321 (p2)

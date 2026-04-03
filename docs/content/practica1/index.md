@@ -59,4 +59,8 @@ typedef struct {
     Prioridad_t prioridad;
     Estado_t estado;
     int ms_por_pagina;
+<<<<<<< HEAD
 } PrintJob_t;
+=======
+} PrintJob_t;
+>>>>>>> 8e84321 (p2)

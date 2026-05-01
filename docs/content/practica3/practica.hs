@@ -1,0 +1,140 @@
+{-
+========================================================
+REPORTE - INSTALACIÓN DE HASKELL Y APLICACIÓN TODO
+========================================================
+
+Alumno: Fabricio
+Materia: Programación Funcional
+Lenguaje utilizado: Haskell
+
+========================================================
+PRIMERA SESIÓN
+INSTALACIÓN DEL ENTORNO DE DESARROLLO
+========================================================
+
+Para comenzar la práctica ingresé al sitio oficial de Haskell y posteriormente a la sección Downloads.
+
+Dentro de la página utilicé la herramienta GHCup,
+la cual permite instalar automáticamente todas las
+herramientas necesarias para trabajar con Haskell.
+
+El procedimiento que realicé fue el siguiente:
+
+1. Entrar a la página oficial de Haskell.
+2. Abrir la sección Downloads.
+3. Dar clic en el enlace GHCup.
+4. Copiar el comando de instalación para Windows.
+5. Abrir PowerShell sin permisos de administrador.
+6. Pegar el comando y ejecutar la instalación.
+
+Durante el proceso instalé las siguientes herramientas:
+
+GHCup:
+Herramienta utilizada para instalar y administrar el
+entorno de desarrollo de Haskell.
+
+GHC:
+Compilador principal de Haskell.
+
+Hugs:
+Intérprete interactivo para ejecutar código Haskell.
+
+HLS:
+Haskell Language Server. Proporciona soporte para
+editores de código y contiene librerías utilizadas
+por otras herramientas.
+
+Stack:
+Administrador de proyectos y dependencias.
+
+Cabal:
+Herramienta utilizada para compilar proyectos y
+empaquetar aplicaciones.
+
+También aprendí que los archivos fuente de Haskell utilizan la extensión .hs.
+
+========================================================
+VERIFICACIÓN DE INSTALACIÓN
+========================================================
+
+Después de finalizar la instalación ejecuté los siguientes comandos en PowerShell para confirmar que las herramientas funcionaban correctamente:
+
+    ghc --version
+    stack --version
+    cabal --version
+
+Los comandos mostraron correctamente las versiones instaladas, confirmando que el entorno funcionaba correctamente.
+
+========================================================
+SEGUNDA SESIÓN
+INTRODUCCIÓN A HASKELL
+========================================================
+
+Posteriormente revisé la guía “Haskell Tutorial for C Programmers”, donde se explican las diferencias entre
+la programación imperativa y la programación funcional.
+
+Entre los conceptos que aprendí destacan:
+
+- Uso de funciones como elemento principal.
+- Variables inmutables.
+- Tipado fuerte y estático.
+- Uso de recursividad.
+- Evaluación funcional.
+
+También revisé un tour de sintaxis de Haskell para comprender mejor la estructura del lenguaje.
+
+========================================================
+APLICACIÓN TODO EN HASKELL
+========================================================
+
+La práctica incluyó revisar una aplicación TODO escrita en Haskell utilizando Stack.
+
+La aplicación permite:
+
+- Agregar tareas.
+- Mostrar tareas.
+- Eliminar tareas.
+- Guardar información.
+
+Para crear el proyecto utilicé el siguiente comando:
+
+    stack new todo-app
+
+Después ingresé a la carpeta del proyecto:
+
+    cd todo-app
+
+Posteriormente compilé el proyecto:
+
+    stack build
+
+Finalmente ejecuté la aplicación:
+
+    stack run
+
+La aplicación utiliza archivos con extensión .hs y
+funciones escritas en Haskell.
+
+========================================================
+EJEMPLO BÁSICO EN HASKELL
+========================================================
+-}
+
+main :: IO ()
+main = putStrLn "Hola Mundo desde Haskell"
+
+{-
+========================================================
+CONCLUSIÓN
+========================================================
+
+Durante esta práctica aprendí a instalar y configurar el entorno de desarrollo de Haskell utilizando GHCup.
+
+También conocí herramientas importantes como GHC, Stack y Cabal, las cuales permiten administrar, compilar y ejecutar proyectos escritos en Haskell.
+
+Además, revisé conceptos básicos del paradigma funcional y el funcionamiento de una aplicación TODO.
+
+Aunque Haskell posee una sintaxis diferente a otros lenguajes como C, considero que es un lenguaje potente y muy interesante para desarrollar aplicaciones mediante el uso de funciones.
+
+========================================================
+-}

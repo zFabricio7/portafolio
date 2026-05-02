@@ -6,7 +6,7 @@ draft: false
 
 # REPORTE - INSTALACIÓN DE HASKELL Y APLICACIÓN TODO
 
-**Alumno:** Fabricio  
+**Alumno:** Reyes Villavicencio Christian Fabricio
 **Materia:** Programación Funcional  
 **Lenguaje utilizado:** Haskell  
 

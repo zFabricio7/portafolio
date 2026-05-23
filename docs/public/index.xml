@@ -6,6 +6,35 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Práctica 01: Cola de impresión en lenguaje C</title>
+      <link>http://localhost:1313/practica1/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practica1/</guid>
+      <description>&lt;h1 id=&#34;práctica-01-cola-de-impresión-en-lenguaje-c&#34;&gt;Práctica 01: Cola de impresión en lenguaje C&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alumno:&lt;/strong&gt; Fabricio Reyes&lt;br&gt;&#xA;&lt;strong&gt;Materia:&lt;/strong&gt; Paradigmas de la programación&lt;br&gt;&#xA;&lt;strong&gt;Profesor:&lt;/strong&gt; José Carlos Gallegos Mariscal&lt;br&gt;&#xA;&lt;strong&gt;Grupo:&lt;/strong&gt; 941&lt;br&gt;&#xA;&lt;strong&gt;Fecha:&lt;/strong&gt; 13/03/2026&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;&#xA;&lt;p&gt;En la presente práctica se desarrolló un simulador de cola de impresión utilizando el lenguaje de programación C. El objetivo principal fue comprender el funcionamiento de las estructuras de datos tipo cola (Queue) y su aplicación en sistemas reales como los sistemas de impresión.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Práctica 02: Implementación de un Simulador de Estacionamiento mediante POO y MVC</title>
+      <link>http://localhost:1313/practica2/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practica2/</guid>
+      <description>&lt;h1 id=&#34;reporte-técnico-implementación-de-un-simulador-de-estacionamiento-mediante-poo-y-mvc&#34;&gt;Reporte Técnico: Implementación de un Simulador de Estacionamiento mediante POO y MVC&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Institución:&lt;/strong&gt; Universidad Autónoma de Baja California&lt;br&gt;&#xA;&lt;strong&gt;Facultad:&lt;/strong&gt; Facultad de Ingeniería, Arquitectura y Diseño (FIAD)&lt;br&gt;&#xA;&lt;strong&gt;Materia:&lt;/strong&gt; 40032 - Paradigmas de la Programación&lt;br&gt;&#xA;&lt;strong&gt;Profesor:&lt;/strong&gt; M.I. José Carlos Gallegos Mariscal&lt;br&gt;&#xA;&lt;strong&gt;Estudiante:&lt;/strong&gt; Fabricio&lt;br&gt;&#xA;&lt;strong&gt;Fecha:&lt;/strong&gt; 03/04/2028&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introducción&#34;&gt;1. Introducción&lt;/h2&gt;&#xA;&lt;p&gt;El presente documento detalla el proceso de diseño, arquitectura e implementación de un sistema de simulación para la gestión de un estacionamiento. El proyecto surge de la necesidad de aplicar conceptos avanzados de la Programación Orientada a Objetos (POO) en un entorno de desarrollo profesional, utilizando Python como lenguaje base y Flask para la interfaz web.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Práctica 0: Markdown, Git, GitHub, Hugo y GitHub Actions</title>
+      <link>http://localhost:1313/practica0/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practica0/</guid>
+      <description>&lt;h1 id=&#34;reporte-markdown-git-github-hugo-y-github-actions&#34;&gt;Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alumno:&lt;/strong&gt; Fabricio Reyes&lt;br&gt;&#xA;&lt;strong&gt;Materia:&lt;/strong&gt; Paradigmas de la programación&lt;br&gt;&#xA;&lt;strong&gt;Profesor:&lt;/strong&gt; Jose Carlos Gallegos Mariscal&lt;br&gt;&#xA;&lt;strong&gt;Fecha:&lt;/strong&gt; 20/02/2026&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;&#xA;&lt;p&gt;En el presente reporte se documenta el aprendizaje adquirido durante tres sesiones enfocadas en herramientas fundamentales para el desarrollo moderno de software y publicación web. Se estudió el uso de Markdown para documentación, Git y GitHub para control de versiones, y finalmente Hugo junto con GitHub Actions para la generación y publicación automática de sitios web estáticos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Práctica 3: Markdown, Git, GitHub, Hugo y GitHub Actions</title>
+      <link>http://localhost:1313/practica3/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/practica3/</guid>
+      <description>&lt;h1 id=&#34;reporte---instalación-de-haskell-y-aplicación-todo&#34;&gt;REPORTE - INSTALACIÓN DE HASKELL Y APLICACIÓN TODO&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alumno:&lt;/strong&gt; Reyes Villavicencio Christian Fabricio&#xA;&lt;strong&gt;Materia:&lt;/strong&gt; Programación Funcional&lt;br&gt;&#xA;&lt;strong&gt;Lenguaje utilizado:&lt;/strong&gt; Haskell&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;primera-sesión&#34;&gt;PRIMERA SESIÓN&lt;/h1&gt;&#xA;&lt;h2 id=&#34;instalación-del-entorno-de-desarrollo&#34;&gt;INSTALACIÓN DEL ENTORNO DE DESARROLLO&lt;/h2&gt;&#xA;&lt;p&gt;Para comenzar la práctica ingresé al sitio oficial de Haskell y posteriormente a la sección Downloads.&lt;/p&gt;&#xA;&lt;p&gt;Dentro de la página utilicé la herramienta GHCup, la cual permite instalar automáticamente todas las herramientas necesarias para trabajar con Haskell.&lt;/p&gt;&#xA;&lt;p&gt;El procedimiento que realicé fue el siguiente:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

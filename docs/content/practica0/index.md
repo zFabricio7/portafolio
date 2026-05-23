@@ -9,7 +9,7 @@ weight: 1
 
 **Alumno:** Fabricio Reyes Villavicencio  
 **Materia:** Paradigmas de la programación  
-**Profesor:** Jose Carlos Gallegos Mariscal
+**Profesor:** Jose Carlos Gallegos Mariscal  
 **Grupo:** 941  
 **Fecha:** 20/02/2026  
 

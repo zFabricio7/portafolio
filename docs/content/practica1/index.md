@@ -5,9 +5,9 @@ draft: false
 weight: 2
 ---
 
-# Práctica 01: Cola de impresión en lenguaje C
+# Reporte: Cola de impresión en lenguaje C
 
-**Alumno:** Fabricio Reyes  
+**Alumno:** Fabricio Reyes Villavicencio
 **Materia:** Paradigmas de la programación  
 **Profesor:** José Carlos Gallegos Mariscal  
 **Grupo:** 941  

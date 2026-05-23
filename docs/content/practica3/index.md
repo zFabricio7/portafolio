@@ -1,20 +1,23 @@
 ---
 title: "Práctica 3: Markdown, Git, GitHub, Hugo y GitHub Actions"
-date: 2026-02-20
+date: 2026-05-01
 draft: false
 weight: 4
 ---
 
-# REPORTE - INSTALACIÓN DE HASKELL Y APLICACIÓN TODO
+# Reporte: Instalación y uso de Haskell
 
-**Alumno:** Reyes Villavicencio Christian Fabricio
-**Materia:** Programación Funcional  
-**Lenguaje utilizado:** Haskell  
+**Alumno:** Fabricio Reyes Villavicencio
+**Materia:** Paradigmas de la programación  
+**Profesor:** José Carlos Gallegos Mariscal  
+**Grupo:** 941   
+**Fecha:** 01/05/2028  
 
 ---
 
-# PRIMERA SESIÓN  
-## INSTALACIÓN DEL ENTORNO DE DESARROLLO
+# Primera sesión
+
+## Instalación del entorno de desarrollo
 
 Para comenzar la práctica ingresé al sitio oficial de Haskell y posteriormente a la sección Downloads.
 
@@ -31,29 +34,35 @@ El procedimiento que realicé fue el siguiente:
 
 Durante el proceso instalé las siguientes herramientas:
 
-## GHCup
+## Ghcup
+
 Herramienta utilizada para instalar y administrar el entorno de desarrollo de Haskell.
 
-## GHC
+## Ghc
+
 Compilador principal de Haskell.
 
 ## Hugs
+
 Intérprete interactivo para ejecutar código Haskell.
 
-## HLS
+## Hls
+
 Haskell Language Server. Proporciona soporte para editores de código y contiene librerías utilizadas por otras herramientas.
 
 ## Stack
+
 Administrador de proyectos y dependencias.
 
 ## Cabal
+
 Herramienta utilizada para compilar proyectos y empaquetar aplicaciones.
 
-También aprendí que los archivos fuente de Haskell utilizan la extensión .hs.
+También aprendí que los archivos fuente de Haskell utilizan la extensión `.hs`.
 
 ---
 
-# VERIFICACIÓN DE INSTALACIÓN
+# Verificación de instalación
 
 Después de finalizar la instalación ejecuté los siguientes comandos en PowerShell para confirmar que las herramientas funcionaban correctamente:
 
@@ -67,8 +76,9 @@ Los comandos mostraron correctamente las versiones instaladas, confirmando que e
 
 ---
 
-# SEGUNDA SESIÓN  
-## INTRODUCCIÓN A HASKELL
+# Segunda sesión
+
+## Introducción a Haskell
 
 Posteriormente revisé la guía “Haskell Tutorial for C Programmers”, donde se explican las diferencias entre la programación imperativa y la programación funcional.
 
@@ -84,7 +94,7 @@ También revisé un tour de sintaxis de Haskell para comprender mejor la estruct
 
 ---
 
-# APLICACIÓN TODO EN HASKELL
+# Aplicación TODO en Haskell
 
 La práctica incluyó revisar una aplicación TODO escrita en Haskell utilizando Stack.
 
@@ -119,11 +129,11 @@ Finalmente ejecuté la aplicación:
 stack run
 ```
 
-La aplicación utiliza archivos con extensión .hs y funciones escritas en Haskell.
+La aplicación utiliza archivos con extensión `.hs` y funciones escritas en Haskell.
 
 ---
 
-# EJEMPLO BÁSICO EN HASKELL
+# Ejemplo básico en Haskell
 
 ```haskell
 main :: IO ()
@@ -132,7 +142,7 @@ main = putStrLn "Hola Mundo desde Haskell"
 
 ---
 
-# CONCLUSIÓN
+# Conclusión
 
 Durante esta práctica aprendí a instalar y configurar el entorno de desarrollo de Haskell utilizando GHCup.
 

@@ -2,6 +2,7 @@
 title: "Práctica 01: Cola de impresión en lenguaje C"
 date: 2026-03-13
 draft: false
+weight: 2
 ---
 
 # Práctica 01: Cola de impresión en lenguaje C

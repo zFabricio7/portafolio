@@ -1,8 +1,9 @@
-+++
-date = '2026-03-13T16:49:30-07:00'
-draft = true
-title = 'Practica2'
-+++
+---
+title: "Práctica 02: Implementación de un Simulador de Estacionamiento mediante POO y MVC"
+date: 2026-03-13
+draft: false
+weight: 3
+---
 
 # Reporte Técnico: Implementación de un Simulador de Estacionamiento mediante POO y MVC
 

@@ -1,7 +1,8 @@
 ---
-title: "Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions"
+title: "Práctica 3: Markdown, Git, GitHub, Hugo y GitHub Actions"
 date: 2026-02-20
 draft: false
+weight: 4
 ---
 
 # REPORTE - INSTALACIÓN DE HASKELL Y APLICACIÓN TODO

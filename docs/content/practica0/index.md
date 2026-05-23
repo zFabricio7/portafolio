@@ -1,7 +1,8 @@
 ---
-title: "Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions"
+title: "Práctica 0: Markdown, Git, GitHub, Hugo y GitHub Actions"
 date: 2026-02-20
 draft: false
+weight: 1
 ---
 
 # Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions

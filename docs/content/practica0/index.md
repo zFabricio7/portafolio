@@ -7,7 +7,7 @@ weight: 1
 
 # Reporte: Markdown, Git, GitHub, Hugo y GitHub Actions
 
-**Alumno:** Fabricio Reyes Villavicencio
+**Alumno:** Fabricio Reyes Villavicencio  
 **Materia:** Paradigmas de la programación  
 **Profesor:** Jose Carlos Gallegos Mariscal
 **Grupo:** 941  

@@ -7,7 +7,7 @@ weight: 4
 
 # Reporte: Instalación y uso de Haskell
 
-**Alumno:** Fabricio Reyes Villavicencio
+**Alumno:** Fabricio Reyes Villavicencio  
 **Materia:** Paradigmas de la programación  
 **Profesor:** José Carlos Gallegos Mariscal  
 **Grupo:** 941   

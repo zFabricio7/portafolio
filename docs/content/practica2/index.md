@@ -8,7 +8,7 @@ weight: 3
 # Reporte: Implementación de un Simulador de Estacionamiento mediante POO y MVC
 
 
-**Alumno:** Fabricio Reyes Villavicencio
+**Alumno:** Fabricio Reyes Villavicencio  
 **Materia:** Paradigmas de la programación  
 **Profesor:** José Carlos Gallegos Mariscal  
 **Grupo:** 941   

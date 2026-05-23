@@ -7,7 +7,7 @@ weight: 2
 
 # Reporte: Cola de impresión en lenguaje C
 
-**Alumno:** Fabricio Reyes Villavicencio
+**Alumno:** Fabricio Reyes Villavicencio  
 **Materia:** Paradigmas de la programación  
 **Profesor:** José Carlos Gallegos Mariscal  
 **Grupo:** 941  
